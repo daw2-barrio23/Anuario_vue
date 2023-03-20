@@ -124,7 +124,7 @@ export default {
                 },
                 {
                     id:10,
-                    nombre: 'Jose luis viri',
+                    nombre: 'Jose luis Viri',
                     photo: 'viri.jpg',
                     funcion: 'alumno',
                     estudios:['Grado medio en Ingeniería Informática','Grado superior en Desarrollo de Aplicaciones Web']
