@@ -62,20 +62,20 @@ export default {
                
                 {
                     id:1,
-                    nombre: 'Jordi Egea',
-                    photo: 'jordi.png',
+                    nombre: 'Carlos Arrebola',
+                    photo: 'carlos.png',
                     funcion: 'profesor'
                 },
                 {
                     id:2,
-                    nombre: 'Raul Sanchez',
-                    photo: 'raul.jpg',
+                    nombre: 'Patricia Salinas',
+                    photo: 'patricia.jpg',
                     funcion: 'profesor'
                 },
                  {
                     id:3,
-                    nombre: 'Carlos Arrebola',
-                    photo: 'carlos.png',
+                    nombre: 'Jordi Egea',
+                    photo: 'jordi.png',
                     funcion: 'profesor'
                 },
                 
@@ -87,8 +87,8 @@ export default {
                 }
                 ,{
                     id:5,
-                    nombre: 'Patricia Salinas',
-                    photo: 'patricia.jpg',
+                    nombre: 'Raul Sachez',
+                    photo: 'raul.jpg',
                     funcion: 'profesor'
                 }
             ],
@@ -98,14 +98,14 @@ export default {
                     nombre: 'Nicolas BARRIO',
                     photo: 'NICO.png',
                     funcion: 'alumno',
-                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web']
+                    estudios:['Grado medio de sistemas microinformaticos y redes','Grado superior de Desarrollo de Aplicaciones Web']
                 },
                 {
                     id:7,
                     nombre: 'Sergio Pereira',
                     photo: 'sergio.png',
                     funcion: 'alumno',
-                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web'],
+                    estudios:['Grado medio de sistemas microinformaticos y redes','Grado superior de Desarrollo de Aplicaciones Web'],
                     trabajo:['DJ']
                 },
                 {
@@ -113,21 +113,21 @@ export default {
                     nombre: 'Fran Montañez',
                     photo: 'fran.JPG',
                     funcion: 'alumno',
-                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web']
+                    estudios:['Grado medio de sistemas microinformaticos y redes','Grado superior de Desarrollo de Aplicaciones Web']
                 },
                 {
                     id:9,
                     nombre: 'Pau Diaz',
                     photo: 'pau.png',
                     funcion: 'alumno',
-                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web']
+                    estudios:['Grado medio de sistemas microinformaticos y redes','Grado superior de Desarrollo de Aplicaciones Web']
                 },
                 {
                     id:10,
                     nombre: 'Jose luis Viri',
                     photo: 'viri.jpg',
                     funcion: 'alumno',
-                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web']
+                    estudios:['Grado medio de sistemas microinformaticos y redes','Grado superior de Desarrollo de Aplicaciones Web']
                 }
             ]
         }
