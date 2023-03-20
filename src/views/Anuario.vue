@@ -98,14 +98,14 @@ export default {
                     nombre: 'Nicolas BARRIO',
                     photo: 'NICO.png',
                     funcion: 'alumno',
-                    estudios:['Grado medio en Ingeniería Informática','Grado superior en Desarrollo de Aplicaciones Web']
+                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web']
                 },
                 {
                     id:7,
                     nombre: 'Sergio Pereira',
                     photo: 'sergio.png',
                     funcion: 'alumno',
-                    estudios:['Grado medio en Ingeniería Informática','Grado superior en Desarrollo de Aplicaciones Web'],
+                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web'],
                     trabajo:['DJ']
                 },
                 {
@@ -113,21 +113,21 @@ export default {
                     nombre: 'Fran Montañez',
                     photo: 'fran.JPG',
                     funcion: 'alumno',
-                    estudios:['Grado medio en Ingeniería Informática','Grado superior en Desarrollo de Aplicaciones Web']
+                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web']
                 },
                 {
                     id:9,
                     nombre: 'Pau Diaz',
                     photo: 'pau.png',
                     funcion: 'alumno',
-                    estudios:['Grado medio en Ingeniería Informática','Grado superior en Desarrollo de Aplicaciones Web']
+                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web']
                 },
                 {
                     id:10,
                     nombre: 'Jose luis Viri',
                     photo: 'viri.jpg',
                     funcion: 'alumno',
-                    estudios:['Grado medio en Ingeniería Informática','Grado superior en Desarrollo de Aplicaciones Web']
+                    estudios:['Grado medio de Ingeniería Informática','Grado superior de Desarrollo de Aplicaciones Web']
                 }
             ]
         }
